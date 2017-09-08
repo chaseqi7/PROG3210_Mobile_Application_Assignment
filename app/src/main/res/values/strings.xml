@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lecture1</string>
+
+    <string name="title_activity_launch_screen">LaunchScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="hello_text">DUMMY\nCONTENT</string>
+    <string name="Hello_there">HelloString</string>
+    <string name="Hello">HelloButton</string>
+</resources>
